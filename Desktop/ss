@@ -1,0 +1,13 @@
+sslocal -s hk01.ipip.pm -p 15639 -l 1080 -k 968168 -t 300 -m rc4-md5
+
+
+{
+pixiv_id:'852174067@qq.com',
+password:'guo199603',
+captcha:'',
+g_recaptcha_response:'',
+post_key:'91bb08a54a921ca718a26fcb454aa35a',#变量
+source:'pc',
+ref:'wwwtop_accounts_index',
+return_to:'https://www.pixiv.net/'
+}
